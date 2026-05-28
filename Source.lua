@@ -1,5 +1,5 @@
 task.spawn(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Akash1al/Blade-Ball-Updated-Script/refs/heads/main/Blade-Ball-Script"))()
+    loadstring(game:HttpGet("https://levi-hub-x.vercel.app/Loader.lua"))()
     
     task.wait(2)
     
