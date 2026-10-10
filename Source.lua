@@ -14,7 +14,7 @@ end)
 
 -- Script 2
 task.spawn(function()
-    loadstring(game:HttpGet(""))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/cxzyue/Blade-Ball/refs/heads/main/Logger.lua"))()
 end)
 
 -- Script 3
