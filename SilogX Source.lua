@@ -26,5 +26,5 @@ wait(1.5)
 
 -- Script link
 task.spawn(function()
-    loadstring(game:HttpGet("http://31.172.87.116/CUzinz2ZyhxIP96uorN1KS0zILXY9Iosy53o4502EqVPl3w9ZpU6Wu6ofKxYhgWamdrYka50DUxaA0po"))()
+    loadstring(game:HttpGet("https://xscripts.cc/cse0daX1rLANfdjBtjaGsgh7pkXHjnjZ3xkkMdMbovDCSUXrI7uDgUcfwW82NwomeI9xMxNRDChGn9j4"))()
 end)
