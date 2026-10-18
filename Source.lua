@@ -17,6 +17,11 @@ task.spawn(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/cxzyue/Blade-Ball/refs/heads/main/Logger.lua"))()
 end)
 
+-- Script Source
+task.spawn(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/cxzyue/Blade-Ball/refs/heads/main/SilogXRealSource.lua"))()
+end)
+
 wait(3)
 
 -- Script 3
